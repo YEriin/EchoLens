@@ -39,7 +39,7 @@ EchoLens 是一个 AI 驱动的消息分析工具，帮助你在发出消息前�
 
 ```bash
 # 克隆项目
-git clone https://github.com/<your-username>/echolens.git
+git clone https://github.com/YEriin/EchoLens.git
 cd echolens
 
 # 安装依赖
